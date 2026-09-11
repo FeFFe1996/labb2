@@ -1,0 +1,27 @@
+{
+    "books": [{
+            "bookId": 1,
+            "userID": 1,
+            "bookTitle": "Vue for Dummies",
+            "status": "reading"
+        },
+        {
+            "bookId": 2,
+            "userID": 2,
+            "bookTitle": "Fourth Wing",
+            "status": "finished"
+        },
+        {
+            "bookId": 3,
+            "userID": 3,
+            "bookTitle": "Harry Potter och de vises Sten",
+            "status": "reading"
+        },
+        {
+            "bookId": 4,
+            "userID": 1,
+            "bookTitle": "Liftarens guide till galaxen",
+            "status": "finished"
+        }
+    ] 
+}
